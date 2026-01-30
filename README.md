@@ -19,12 +19,12 @@ This work is part of a larger project aimed at validating trained policies for l
 
 To use this repository, you must be in a Python environment where the [`feature/newton`](https://github.com/isaac-sim/IsaacLab/tree/feature/newton) branch of IsaacLab has been installed.
 
-Here are the [`detailed steps`](https://github.com/isaac-sim/IsaacLab/tree/feature/newton) to install it
+Here are the [`detailed steps`](https://github.com/isaac-sim/IsaacLab/tree/feature/newton) to install it. Using a conda env is highly recommended.
 
 **Repo install**
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/SamS709/go2_isaaclab_newton.git
 cd go2_isaaclab_newton
 python -m pip install -e source/go2_isaaclab_newton
 ```

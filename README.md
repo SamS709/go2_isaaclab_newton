@@ -5,7 +5,7 @@ The main objectives are:
 - **Train reinforcement learning policies** for the Go2 robot in simulation.
 - **Sim2Sim transfer**: Validate and adapt policies trained in PhysX for use in the Newton engine, enabling robust transfer between simulation environments.
 
-This work is part of a larger project aimed at validating trained policies for legged robots in diverse simulation environments. For more details and the broader context, see the main project repository: [Main Project GitHub](https://github.com/your-org/your-main-project)  <!-- Replace with actual link -->
+This work is part of a larger project aimed at validating trained policies for legged robots in diverse simulation environments. For more details and the broader context, see the main project repository: [Main Project GitHub](https://github.com/SamS709/go2_isaaclab.git)  <!-- Replace with actual link -->
 
 
 <img src="images/Newton_MuJoCo.png" width="400"/>

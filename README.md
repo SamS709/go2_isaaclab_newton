@@ -19,7 +19,7 @@ This work is part of a larger project aimed at validating trained policies for l
 
 To use this repository, you must be in a Python environment where the [`feature/newton`](https://github.com/isaac-sim/IsaacLab/tree/feature/newton) branch of IsaacLab has been installed.
 
-Here are the [`detailed steps`](https://github.com/isaac-sim/IsaacLab/tree/feature/newton) to install it. Using a conda env is highly recommended.
+Here are the [`detailed steps`](https://isaac-sim.github.io/IsaacLab/main/source/experimental-features/newton-physics-integration/installation.html) to install it. Using a conda env is highly recommended.
 
 **Repo install**
 
